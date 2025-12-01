@@ -1,0 +1,84 @@
+date,order_id,item_type,item_name,size,quantity,extra_cheese,unit_price,total
+2025-11-27,1,pizza,HAWAIIAN (ham & pineapple),S,2,false,10.17,20.34
+2025-11-27,1,salad,Caesar Salad,,1,,6.5 ,0
+2025-11-27,2,pizza,Meat Lovers!,S,1,False,6.2,6.2
+2025-11-27,3,pizza,bbq chicken,xl,4,True,12.17,48.68
+2025-11-27,4,pizza,bbq chicken,S,1,True,12.47,12.47
+2025-11-27,4,drink,Lemonade ,,2,,3.5,7.0
+2025-11-27,4,salad,GARDEN SALAD ,,1 ,,N/A,0
+2025-11-27,5,pizza,bbq chicken,L ,N/A,False,11.77,N/A
+2025-11-27,6,pizza,margherita - Fresh basil,xl,3,False,6.33,18.99 
+2025-11-27,7,pizza,margherita - Fresh basil,Medium,3 ,yes,10.79,10.79
+2025-11-27,7,salad,GARDEN SALAD ,,1 ,,5.5,5.5
+2025-11-27,8,pizza,Meat Lovers!,L ,4 ,TRUE,6.14,N/A
+2025-11-27,9,pizza,HAWAIIAN (ham & pineapple),Medium,2,TRUE,10.98 ,0
+2025-11-27,10,pizza,Meat Lovers!,xl,1 ,yes,8.14,8.14 
+2025-11-27,11,pizza,Pepperoni-double,L ,2,yes,8.65,17.3
+2025-11-27,11,drink,Soda,,1 ,,N/A,0
+2025-11-27,12,pizza,bbq chicken,lARGE,1,yes,10.89,10.89
+2025-11-27,13,pizza,bbq chicken,m,3,False,13.63,40.89 
+2025-11-27,14,pizza,Four cheese,L ,3,yes,14.35 ,0
+2025-11-27,15,pizza,Four cheese,m,4,false,15.77,63.08
+2025-11-27,15,salad,GARDEN SALAD ,,1,,5.5,5.5
+2025-11-27,16,pizza,margherita - Fresh basil,xl,1,TRUE,14.42,14.42
+2025-11-27,16,salad,greek salad,,1,,7.0 ,0
+2025-11-27,17,pizza,margherita - Fresh basil,lARGE,3,TRUE,7.71,23.13 
+2025-11-27,17,drink,Lemonade ,,1,,3.5,3.5
+2025-11-27,17,salad,greek salad,,1 ,,7.0,N/A
+2025-11-27,18,pizza,Pepperoni-double,S,3,False,11.55,34.65
+2025-11-27,18,drink,ICED TEA,,1 ,,3.0,3.0
+2025-11-27,19,pizza,margherita - Fresh basil,lARGE,3,False,15.12 ,0
+2025-11-27,19,drink,Lemonade ,,1,,3.5 ,0
+2025-11-27,20,pizza,Pepperoni-double,L ,N/A,False,N/A,0
+2025-11-27,20,drink,Soda,,2,,2.5,5.0
+2025-11-27,20,salad,Caesar Salad,,1,,6.5,6.5 
+2025-11-27,21,pizza,margherita - Fresh basil,m,3,True,15.81,47.43 
+2025-11-27,22,pizza,Pepperoni-double,S,1,TRUE,N/A,0
+2025-11-27,23,pizza,margherita - Fresh basil,S,2,yes,13.04,26.08
+2025-11-27,24,pizza,Four cheese,lARGE,1,True,6.56,6.56 
+2025-11-27,25,pizza,Four cheese,S,4,TRUE,11.65,46.6
+2025-11-27,25,drink,water,,2,,1.5,N/A
+2025-11-27,26,pizza,bbq chicken,lARGE,3 ,yes,9.87,9.87 
+2025-11-27,26,drink,ICED TEA,,1,,3.0 ,0
+2025-11-27,27,pizza,Veggie  ,L ,1,false,13.36,13.36
+2025-11-27,28,pizza,margherita - Fresh basil,L ,2,False,9.91,19.82
+2025-11-27,29,pizza,margherita - Fresh basil,xl,2,True,8.31 ,0 
+2025-11-27,29,salad,Caesar Salad,,1,,6.5,N/A
+2025-11-27,30,pizza,Pepperoni-double,lARGE,2,yes,13.05 ,0
+2025-11-27,30,drink,ICED TEA,,1,,3.0,3.0
+2025-11-27,31,pizza,Meat Lovers!,lARGE,2 ,false,15.96,15.96
+2025-11-27,32,pizza,Veggie  ,lARGE,1,False,12.28,12.28
+2025-11-27,32,drink,Soda,,2,,2.5,N/A
+2025-11-27,33,pizza,Meat Lovers!,L ,2,yes,11.86,23.72
+2025-11-27,33,salad,greek salad,,1,,7.0,N/A
+2025-11-27,34,pizza,bbq chicken,m,1,yes,14.91,14.91
+2025-11-27,35,pizza,bbq chicken,Medium,2,false,8.96,17.92
+2025-11-27,36,pizza,bbq chicken,S,3 ,TRUE,12.24,12.24
+2025-11-27,36,drink,Soda,,2,,2.5,5.0 
+2025-11-27,37,pizza,Meat Lovers!,lARGE,N/A,false,13.55,13.55
+2025-11-27,37,drink,Soda,,1,,2.5,2.5
+2025-11-27,38,pizza,Meat Lovers!,m,2 ,False,12.59,12.59
+2025-11-27,38,drink,ICED TEA,,1,,3.0,N/A
+2025-11-27,39,pizza,Pepperoni-double,Medium,2,True,6.71,13.42 
+2025-11-27,39,salad,Caesar Salad,,1,,6.5,6.5
+2025-11-27,40,pizza,Four cheese,m,1,TRUE,N/A,0
+2025-11-27,40,drink,Soda,,2,,2.5 ,0
+2025-11-27,41,pizza,HAWAIIAN (ham & pineapple),S,1 ,TRUE,12.16,12.16
+2025-11-27,41,drink,Soda,,2,,2.5,5.0
+2025-11-27,42,pizza,margherita - Fresh basil,L ,2,false,9.21,18.42
+2025-11-27,42,salad,Caesar Salad,,1,,6.5 ,0
+2025-11-27,43,pizza,margherita - Fresh basil,Medium,2,false,11.32,22.64
+2025-11-27,44,pizza,bbq chicken,lARGE,4,false,N/A,0
+2025-11-27,44,salad,Caesar Salad,,1,,6.5,6.5
+2025-11-27,45,pizza,HAWAIIAN (ham & pineapple),lARGE,3,False,11.4,34.2
+2025-11-27,46,pizza,bbq chicken,lARGE,2,False,N/A,0
+2025-11-27,47,pizza,HAWAIIAN (ham & pineapple),xl,1,yes,15.27,15.27
+2025-11-27,48,pizza,HAWAIIAN (ham & pineapple),m,4,True,12.97,51.88
+2025-11-27,48,drink,Lemonade ,,2,,3.5,7.0
+2025-11-27,48,salad,GARDEN SALAD ,,1,,5.5,5.5
+2025-11-27,49,pizza,Veggie  ,L ,1,TRUE,N/A,0
+2025-11-27,50,pizza,Pepperoni-double,S,1,yes,9.93,9.93
+2025-11-27,51,pizza,HAWAIIAN (ham & pineapple),m,N/A,True,7.54,7.54
+2025-11-27,51,drink,Soda,,1 ,,2.5,2.5
+2025-11-27,52,pizza,HAWAIIAN (ham & pineapple),lARGE,1 ,True,8.3,8.3
+2025-11-27,53,pizza,Veggie  ,m,2,True,8.83,17.66 
