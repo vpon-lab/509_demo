@@ -1,0 +1,7 @@
+timestamp,location,value,unit
+2024-01-01 08:00:00,Site A,45.2,ppm
+2024-01-01 12:00:00,Site A,48.5,ppm
+2024-01-01 16:00:00,Site A,42.1,ppm
+2024-01-02 08:00:00,Site B,52.3,ppm
+2024-01-02 12:00:00,Site B,55.7,ppm
+
